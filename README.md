@@ -8,7 +8,7 @@ Data preprocessing, a component of data preparation, describes any type of proce
 
 This Project is done in a group The names of group members are as given:
 
-Samir premsing Pawar
-Umesh Havarage
-Karanbeer Singh
-Deepak Kulkarni
+1.Samir premsing Pawar
+2.Umesh Havarage
+3.Karanbeer Singh
+4.Deepak Kulkarni
